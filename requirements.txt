@@ -4,4 +4,4 @@ idna==2.6
 requests==2.18.4
 urllib3==1.22
 pyTelegramBotAPI==3.5.1
-mysql-connector-python==8.0.5
+mysql-connector-python==8.0.14
